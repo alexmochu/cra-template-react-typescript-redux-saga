@@ -1,6 +1,6 @@
 # cra-template-react-typescript-redux-saga
 
-Redux+Saga template for [Create React App](https://github.com/facebook/create-react-app)
+TypeScript+Redux+Saga template for [Create React App](https://github.com/facebook/create-react-app)
 
 ## Usage
 
