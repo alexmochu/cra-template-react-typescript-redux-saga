@@ -35,7 +35,7 @@
   "description": "The base Redux-Saga & TypeScript template for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexmochu/cra-template-react-typescript-redux-saga.git",
+    "url": "https://github.com/alexmochu/cra-template-react-typescript-redux-saga.git"
   },
   "license": "MIT",
   "engines": {
